@@ -58,7 +58,7 @@ Atualmente, divido meu tempo entre:
 - Visual Studio Code • Postman • Figma • GitHub • Notion
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,nodejs,nestjs,angular,react,nextjs,postgres,prisma,supabase,docker,git&perline=10&theme=dark" alt="Stack e ferramentas"/>
+  <img src="https://skillicons.dev/icons?i=ts,nodejs,nestjs,angular,react,nextjs,postgres,prisma,supabase,docker,git&perline=11&theme=dark" alt="Stack e ferramentas"/>
 </p>
 
 ---
@@ -110,24 +110,13 @@ Rede de servidores de Minecraft 1.21.8, com foco em:
 
 - 📌 Estudando aprimoramentos de arquitetura limpa e automação de deploy
 - ️ Evoluindo a infraestrutura e o ecossistema do servidor AusTV
+- Desenvolvimento Java e JavaScript
 
 ### 🤝 Aberto a colaborações
 
 - Projetos de back-end (NestJS/Node.js) e automação
 - Otimização de infraestrutura para servidores de Minecraft
 - Mentoria/organização de times e processos de entrega
-
----
-
-## 🏷️ Status deste repositório
-
-<p align="center">
-  <a href="https://github.com/ZzPowerTech/ZzPowerTech/issues"><img src="https://img.shields.io/github/issues/ZzPowerTech/ZzPowerTech?style=for-the-badge" alt="Issues abertas"/></a>
-  <a href="https://github.com/ZzPowerTech/ZzPowerTech/pulls"><img src="https://img.shields.io/github/issues-pr/ZzPowerTech/ZzPowerTech?style=for-the-badge" alt="Pull Requests abertos"/></a>
-  <a href="https://github.com/ZzPowerTech/ZzPowerTech/stargazers"><img src="https://img.shields.io/github/stars/ZzPowerTech/ZzPowerTech?style=for-the-badge" alt="Stars"/></a>
-  <a href="https://github.com/ZzPowerTech/ZzPowerTech/network/members"><img src="https://img.shields.io/github/forks/ZzPowerTech/ZzPowerTech?style=for-the-badge" alt="Forks"/></a>
-  <a href="https://github.com/ZzPowerTech/ZzPowerTech"><img src="https://img.shields.io/github/last-commit/ZzPowerTech/ZzPowerTech?style=for-the-badge" alt="Último commit"/></a>
-</p>
 
 ---
 
