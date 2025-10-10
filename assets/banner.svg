@@ -1,0 +1,29 @@
+<svg width="1200" height="280" viewBox="0 0 1200 280" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Murillo Weiss Kist | Back-end • Minecraft Servers • Team Lead">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#121212"/>
+      <stop offset="100%" stop-color="#1f1b24"/>
+    </linearGradient>
+    <linearGradient id="a" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#6E40C9"/>
+      <stop offset="100%" stop-color="#00D4FF"/>
+    </linearGradient>
+    <filter id="shadow" x="-50%" y="-50%" width="200%" height="200%">
+      <feDropShadow dx="0" dy="6" stdDeviation="8" flood-color="#000" flood-opacity="0.5"/>
+    </filter>
+  </defs>
+  <rect width="1200" height="280" fill="url(#g)"/>
+  <g transform="translate(60,65)" filter="url(#shadow)">
+    <text x="0" y="0" font-family="Segoe UI, Inter, Roboto, Arial, sans-serif" font-size="44" font-weight="800" fill="white">Murillo Weiss Kist</text>
+  <text x="0" y="48" font-family="Segoe UI, Inter, Roboto, Arial, sans-serif" font-size="22" fill="#C3C8D4">Back-end • Minecraft Servers • Team Lead</text>
+  </g>
+  <g transform="translate(60,180)">
+    <rect x="0" y="-28" rx="10" ry="10" width="500" height="44" fill="#1E1E1E" stroke="url(#a)" stroke-width="2"/>
+  <text x="16" y="0" font-family="Consolas, Menlo, monospace" font-size="18" fill="#E7E7E7">Clean Architecture • NestJS • Prisma • Docker</text>
+  </g>
+  <g transform="translate(900,40)">
+    <circle cx="0" cy="0" r="36" fill="#6E40C9"/>
+    <circle cx="72" cy="18" r="24" fill="#00D4FF"/>
+    <circle cx="36" cy="54" r="18" fill="#2dd4bf"/>
+  </g>
+</svg>
