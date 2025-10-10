@@ -5,9 +5,6 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/ZzPowerTech/ZzPowerTech">
-    <img src="https://api.visitorbadge.io/api/visitors?path=ZzPowerTech.ZzPowerTech&label=VISITAS&labelColor=212121&countColor=%236E40C9&style=for-the-badge" alt="Contador de visitas"/>
-  </a>
   &nbsp;
   <a href="https://github.com/ZzPowerTech">
     <img src="https://komarev.com/ghpvc/?username=ZzPowerTech&style=for-the-badge&color=blueviolet" alt="Visualizações de perfil"/>
