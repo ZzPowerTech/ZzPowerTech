@@ -5,15 +5,12 @@
 </p>
 
 <p align="center">
-  &nbsp;
   <a href="https://github.com/ZzPowerTech">
     <img src="https://komarev.com/ghpvc/?username=ZzPowerTech&style=for-the-badge&color=blueviolet" alt="Visualizações de perfil"/>
   </a>
-  &nbsp;
   <a href="#-status-deste-reposit%C3%B3rio">
     <img src="https://img.shields.io/badge/tema-dracula-6E40C9?style=for-the-badge&logo=github" alt="Tema: Dracula"/>
   </a>
-  &nbsp;
   <a href="https://github.com/ZzPowerTech?tab=followers">
     <img src="https://img.shields.io/github/followers/ZzPowerTech?style=for-the-badge&logo=github&label=seguidores" alt="Seguidores no GitHub"/>
   </a>
