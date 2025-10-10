@@ -58,7 +58,7 @@ Atualmente, divido meu tempo entre:
 - Visual Studio Code • Postman • Figma • GitHub • Notion
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,nodejs,nestjs,express,angular,react,nextjs,postgres,prisma,supabase,docker,git,linux&perline=9&theme=dark" alt="Stack e ferramentas"/>
+  <img src="https://skillicons.dev/icons?i=ts,nodejs,nestjs,angular,react,nextjs,postgres,prisma,supabase,docker,git&perline=10&theme=dark" alt="Stack e ferramentas"/>
 </p>
 
 ---
