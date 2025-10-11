@@ -18,7 +18,7 @@
 
 <p align="center">
 🎓 Estudante de <b>Engenharia de Software (6º período)</b> <br>
-💻 Desenvolvedor back-end/full stack | entusiasta de servidores e automação <br>
+💻 Desenvolvedor back-end | entusiasta de servidores e automação <br>
 🕹️ Fundador e gestor financeiro da rede de servidores <b>AusTV</b> <br>
 🌍 Apaixonado por tecnologia, inovação e experiências imersivas
 </p>
@@ -37,7 +37,7 @@ Atualmente, divido meu tempo entre:
 
 ### 🧭 Em 1 minuto
 
-- 👨‍💻 20 anos, focado em back-end e arquitetura limpa
+- 👨‍💻 20 anos de idade, focado em back-end e arquitetura limpa
 - 🕹️ Fundador/gestor da AusTV: administração, infraestrutura e organização de equipe
 - 🤝 Curto liderar squads, planejar entregas e automatizar processos
 - 🚀 Objetivo: construir experiências imersivas e escaláveis para games e web
@@ -50,7 +50,7 @@ Atualmente, divido meu tempo entre:
 
 - **Frontend:** Angular • Next.js • React
 - **Backend:** NestJS • Node.js • Express
-- **Banco de Dados:** PostgreSQL • Supabase • Prisma
+- **Banco de Dados:** PostgreSQL • Supabase 
 - **Outros:** Docker • Git • REST APIs • JWT • Clean Architecture
 
 ### 🧰 Ferramentas de Desenvolvimento
