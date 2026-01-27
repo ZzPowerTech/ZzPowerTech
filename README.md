@@ -48,17 +48,17 @@ Atualmente, divido meu tempo entre:
 
 ### 💻 Desenvolvimento Web
 
-- **Frontend:** Angular • Next.js • React
-- **Backend:** NestJS • Node.js • Express
-- **Banco de Dados:** PostgreSQL • Supabase 
-- **Outros:** Docker • Git • REST APIs • JWT • Clean Architecture
+- **Frontend:** Angular • React
+- **Backend:** NestJS  
+- **Banco de Dados:** PostgreSQL 
+- **Outros:** Git • REST APIs • JWT • Clean Architecture
 
 ### 🧰 Ferramentas de Desenvolvimento
 
 - Visual Studio Code • Postman • Figma • GitHub • Notion
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,nodejs,nestjs,angular,react,nextjs,postgres,prisma,supabase,docker,git&perline=11&theme=dark" alt="Stack e ferramentas"/>
+  <img src="https://skillicons.dev/icons?i=ts,nestjs,angular,react,postgres,prisma,git&perline=11&theme=dark" alt="Stack e ferramentas"/>
 </p>
 
 ---
