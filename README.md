@@ -36,7 +36,7 @@ nome:         Murillo Weiss Kist
 idade:        20 anos
 localização:  Brasil · GMT-3
 formação:     Engenharia de Software — 6º período
-foco:         Back-end · Arquitetura Limpa · DDD · Liderança técnica
+foco:         Back-end · Clean Architecture · SDD · LLMs & MCPs · Liderança técnica
 status:       Aberto a oportunidades (Júnior · Pleno)
 ```
 
@@ -49,6 +49,7 @@ status:       Aberto a oportunidades (Júnior · Pleno)
 - **Banco de dados** — modelagem relacional em PostgreSQL com Prisma/JPA, otimização de queries e migrações versionadas
 - **Plugins Minecraft** — desenvolvimento Java avançado (Spigot/Paper), integração com Redis, MySQL e mensageria entre servidores
 - **Liderança técnica** — gestão de squad, code review, planejamento de sprints e mentoria de devs juniores
+- **IA aplicada ao dev** — uso prático de **LLMs (Claude, GPT)**, **MCPs (Model Context Protocol)** e agentes para acelerar engenharia, automação e workflows internos
 - **Produto** — definição de roadmap, priorização e operação financeira da AusTV Network
 
 ---
@@ -67,7 +68,7 @@ status:       Aberto a oportunidades (Júnior · Pleno)
 - Java · Spring Boot
 - NestJS · Node.js
 - REST APIs · JWT
-- Clean Architecture · DDD
+- Clean Architecture · SDD (Spec-Driven Development)
 
 </td>
 <td valign="top" width="33%">
@@ -84,7 +85,7 @@ status:       Aberto a oportunidades (Júnior · Pleno)
 #### Front-end & Tools
 - Angular · React · TypeScript
 - VS Code · Postman
-- Figma · Notion
+- Figma · Obsidian
 - Bukkit / Paper API
 
 </td>
@@ -136,9 +137,11 @@ Rede de servidores Minecraft 1.21.8 com arquitetura multi-servidor, plugins prop
 ## Hoje estou focado em
 
 - Aprofundando **Spring Boot, JPA e arquitetura hexagonal** em projetos backend
+- Explorando **LLMs, MCPs (Model Context Protocol) e agentes** aplicados a workflows de engenharia
+- Construindo skills, plugins e integrações próprias com **Claude Code / Anthropic SDK**
 - Evoluindo a infraestrutura e o ecossistema técnico da **AusTV Network**
 - Estudando **Docker, CI/CD e observabilidade** para deploys mais previsíveis
-- Refinando práticas de **Clean Code, testes automatizados e DDD**
+- Refinando práticas de **Clean Code, testes automatizados e SDD (Spec-Driven Development)**
 
 ### Aberto a colaborações em
 - Back-end em **Java/Spring** ou **Node/NestJS**
