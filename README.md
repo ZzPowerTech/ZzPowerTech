@@ -6,14 +6,14 @@
 </p>
 
 <p align="center">
+  <a href="https://portfolio.weissmurillo.de/">
+    <img src="https://img.shields.io/badge/Portf%C3%B3lio-portfolio.weissmurillo.de-111827?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfólio de Murillo Weiss Kist"/>
+  </a>
   <a href="https://www.linkedin.com/in/murillo-weiss-kist-6aa2a1279">
     <img src="https://img.shields.io/badge/LinkedIn-Vamos%20conversar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:weissmurillo.dev@gmail.com">
     <img src="https://img.shields.io/badge/Email-weissmurillo.dev%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <a href="https://discord.gg/mDjtKyPbEx">
-    <img src="https://img.shields.io/badge/Discord-AusTV%20Network-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
   </a>
   <a href="https://github.com/ZzPowerTech?tab=followers">
     <img src="https://img.shields.io/github/followers/ZzPowerTech?style=for-the-badge&logo=github&label=Followers&color=6E40C9" alt="Followers"/>
@@ -27,15 +27,19 @@
 
 ## Sobre mim
 
-Engenheiro de Software em formação (6º período), com **3+ anos** liderando produtos reais em produção. Atuo de ponta a ponta: arquitetura de back-end, APIs escaláveis e gestão técnica de equipe. Meu foco está em **Java/Spring Boot** e **Node/NestJS**, escrevendo código limpo, testável e orientado a domínio.
+Engenheiro de software backend formado pelo Centro Universitário FAG (2023–2026), com **3+ anos** liderando produtos reais em produção. Atuo de ponta a ponta: arquitetura de back-end, APIs escaláveis e gestão técnica de equipe. Meu foco está em **Java/Spring Boot** e **Node/NestJS**, escrevendo código limpo, testável e orientado a domínio.
 
-Fundador e tech lead da **AusTV Network**, plataforma de servidores Minecraft com infraestrutura distribuída, economia integrada, sistemas customizados em Java e centenas de jogadores ativos. O projeto me deu a oportunidade rara de operar simultaneamente como **engenheiro**, **arquiteto** e **líder de squad**.
+Hoje sou cofundador da **GWNext** e desenvolvo o backend da **[AgroConIA](https://www.agroconia.com.br/)**, plataforma que calcula o IBS e a CBS da reforma tributária na nota do produtor rural. De junho de 2025 a outubro de 2026 fui Head de Games e líder técnico da **AusTV Network**, rede de servidores Minecraft, liderando uma equipe de 15 pessoas.
+
+Portfólio completo, projetos e contato: **[portfolio.weissmurillo.de](https://portfolio.weissmurillo.de/)**
 
 ```yaml
 nome:         Murillo Weiss Kist
 idade:        20 anos
 localização:  Brasil · GMT-3
-formação:     Engenharia de Software — 6º período
+formação:     Engenharia de Software — Centro Universitário FAG (2023–2026)
+atual:        Cofundador da GWNext · Backend da AgroConIA
+portfólio:    https://portfolio.weissmurillo.de
 foco:         Back-end · Clean Architecture · SDD · LLMs & MCPs · Liderança técnica
 status:       Aberto a oportunidades (Júnior · Pleno)
 ```
@@ -50,7 +54,7 @@ status:       Aberto a oportunidades (Júnior · Pleno)
 - **Plugins Minecraft** — desenvolvimento Java avançado (Spigot/Paper), integração com Redis, MySQL e mensageria entre servidores
 - **Liderança técnica** — gestão de squad, code review, planejamento de sprints e mentoria de devs juniores
 - **IA aplicada ao dev** — uso prático de **LLMs (Claude, GPT)**, **MCPs (Model Context Protocol)** e agentes para acelerar engenharia, automação e workflows internos
-- **Produto** — definição de roadmap, priorização e operação financeira da AusTV Network
+- **Produto** — definição de roadmap e priorização, da AusTV Network à AgroConIA
 
 ---
 
@@ -96,15 +100,19 @@ status:       Aberto a oportunidades (Júnior · Pleno)
 
 ## Projetos em destaque
 
-### AusTV Network — Fundador & Tech Lead
-Rede de servidores Minecraft 1.21.8 com arquitetura multi-servidor, plugins proprietários em Java e ecossistema de gameplay customizado.
+### AgroConIA — Cofundador & Backend (GWNext)
+Plataforma para a reforma tributária do agro. Calcula o IBS e a CBS de cada produto na nota do produtor rural (NF-e 4.00), avisa o que conferir antes de emitir e envia a nota para o escritório de contabilidade aprovar. Inclui a Ceres, assistente de IA que responde citando a EC 132/2023 e a LC 214/2025.
+
+> Site: [agroconia.com.br](https://www.agroconia.com.br/)
+
+### AusTV Network — Head de Games & Líder técnico (jun/2025 – out/2026)
+Rede de servidores Minecraft 1.21.8 com arquitetura multi-servidor, plugins proprietários em Java e ecossistema de gameplay customizado. Encerrada em outubro de 2026.
 
 - **Arquitetura:** servidores distribuídos com proxy Velocity, comunicação via Redis e persistência em MySQL
 - **Engenharia:** plugins Java com sistema de relíquias, economia integrada, lootboxes e PvP balanceado (1.8/1.9)
-- **Liderança:** gestão de equipe técnica e operacional, code review, agenda de eventos e roadmap de conteúdo
-- **Produto:** responsável pela gestão financeira, métricas de engajamento e planejamento de expansão
+- **Liderança:** equipe técnica de 15 pessoas, code review, agenda de eventos e roadmap de conteúdo
 
-> Discord da comunidade: [discord.gg/mDjtKyPbEx](https://discord.gg/mDjtKyPbEx)
+> Todos os projetos, incluindo hackathons e código aberto: [portfolio.weissmurillo.de](https://portfolio.weissmurillo.de/)
 
 ---
 
@@ -139,7 +147,7 @@ Rede de servidores Minecraft 1.21.8 com arquitetura multi-servidor, plugins prop
 - Aprofundando **Spring Boot, JPA e arquitetura hexagonal** em projetos backend
 - Explorando **LLMs, MCPs (Model Context Protocol) e agentes** aplicados a workflows de engenharia
 - Construindo skills, plugins e integrações próprias com **Claude Code / Anthropic SDK**
-- Evoluindo a infraestrutura e o ecossistema técnico da **AusTV Network**
+- Construindo o backend da **AgroConIA** para a reforma tributária (IBS e CBS)
 - Estudando **Docker, CI/CD e observabilidade** para deploys mais previsíveis
 - Refinando práticas de **Clean Code, testes automatizados e SDD (Spec-Driven Development)**
 
@@ -155,6 +163,9 @@ Rede de servidores Minecraft 1.21.8 com arquitetura multi-servidor, plugins prop
 Se você está montando um time de back-end e procura alguém que une **engenharia sólida** com **maturidade de liderança** desde cedo, vamos conversar. Tenho preferência por times com cultura de code review, testes e crescimento técnico.
 
 <p align="center">
+  <a href="https://portfolio.weissmurillo.de/">
+    <img src="https://img.shields.io/badge/Ver%20portf%C3%B3lio-111827?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Ver portfólio"/>
+  </a>
   <a href="https://www.linkedin.com/in/murillo-weiss-kist-6aa2a1279">
     <img src="https://img.shields.io/badge/Conectar%20no%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
